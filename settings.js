@@ -2,30 +2,30 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //---------⚠️ 𝗪𝗮𝗿𝗻𝗶𝗻𝗴 ⚠️-----------\\
-global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
+global.simpleBotname = "Hentai" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
 
 
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
-global.botname = "Queen Anya" 
-global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
-global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
-global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
-global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
-actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
-global.headerText = "Anya by Pika" // text for header of menu //        
+global.botname = "HENTAI" 
+global.websitex = "https://github.com/love-de-sasuke" // Website to be displayed //
+global.botscript = https://github.com/love-de-sasuke/Anya-pika-MD-v2' // Script link //
+global.packname = "HENTAI BOT BY SASUKEEE" // sticker watermark packname //
+global.author = "BOT BY SASUKE " // sticker watermark author //
+actiontitle = '࿙⚜HENTAI⚜࿚' // text who displays on the top of welcome and left message //
+global.headerText = "Hentai by sasuke" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             
-             global.ownernumber = ['918811074852']   // Owner number //
-             global.vcardowner = ['918811074852']   // vcard owner number //
-             global.ownername = "3.69_Pika"   // Owner name //
-             global.ytname = "YT: ONYXPIKA"   // Yt chanel name //
-             global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4"   // Github or insta name //
+             global.ownernumber = ['917044034367']   // Owner number //
+             global.vcardowner = ['917044034367']   // vcard owner number //
+             global.ownername = "sasukeeeeeee"   // Owner name //
+             global.ytname = "YT: your mom "   // Yt chanel name //
+             global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : love-de-sasuke"   // Github or insta name //
              global.location = "India, Assam, Dibrugarh"   // Location //
-             global.owner = ['918811074852','917355622763','919673141317']
-             global.ownertag = '918811074852'  // Tag number //
-             global.linkz = "https://wa.me/+918811074852"  // Theme url which will be displayed on whatsapp //
-             global.premium = ['918811074852']  // premium numbers //             
-             global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark //
+             global.owner = ['917044034367']
+             global.ownertag = '917044034367'  // Tag number //
+             global.linkz = "https://wa.me/+917044034367"  // Theme url which will be displayed on whatsapp //
+             global.premium = ['917044034367']  // premium numbers //             
+             global.waterMark = "×͜× hentai ✘ Sasuke™ ✓" // Your own watermark //
 
 global.prefa = ['','-']
 
